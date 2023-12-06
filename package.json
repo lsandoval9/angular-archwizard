@@ -9,7 +9,7 @@
     "email": "marc.arndt@masimi.de"
   },
   "peerDependencies": {
-    "@angular/core": ">=14 <= 16"
+    "@angular/core": ">=14 <= 17"
   },
   "repository": {
     "type": "git",
